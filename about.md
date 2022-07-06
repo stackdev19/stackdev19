@@ -5,7 +5,7 @@
 ## .Net Developer with 9+ years of experience 
 
 I am a technical leader and full-stack developer with over nine years of hands-on experience creating microservices, APIs, and web applications.
-I possesses a broad knowledge of the Microsoft technology stack, including C#, .NET Core, and ASP.NET. I am familiar with microservies architecture and cloud-based solutions (Microsoft Azure). While working primarily in the industrial area, I have learned how to deliver critical software systems that are highly available, secure, and fast.
+I possess a broad knowledge of the Microsoft technology stack, including C#, .NET Core, and ASP.NET. I am familiar with microservies architecture and cloud-based solutions (Microsoft Azure). While working primarily in the industrial area, I have learned how to deliver critical software systems that are highly available, secure, and fast.
 My personal passion lies within high-performance solutions, complex technical challenges, and algorithm implementation and optimization.
 
 I am proficient in .Net core and .Net Framework based development and have over 9 years of experience.
