@@ -1,4 +1,4 @@
-# Hi there, I'm Zenith W 👋
+# Hi there, I'm Chady Serban 👋
 
 <img src="./banner.png" width="100%">
 
